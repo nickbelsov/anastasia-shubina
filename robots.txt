@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nickbelsov.github.io/anastasia-shubina/sitemap.xml
